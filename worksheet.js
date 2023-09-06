@@ -41,7 +41,7 @@ const characters = [
 //3. Get total number of characters by eye color
 //4. Get total number of characters in all the character names
 
-//***FILTER***
+//
 //1. Get characters with mass greater than 100
 //2. Get characters with height less than 200
 //3. Get all male characters
